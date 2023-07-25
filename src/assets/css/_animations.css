@@ -1,0 +1,20 @@
+@media(min-width:1024px){
+    @keyframes slide-in-center {
+        0% { 
+            margin-left: 0;
+        }
+        100% {
+            margin-left: 80%;
+        }
+    }
+}
+@media(max-width:1023px){
+    @keyframes slide-in-center {
+        0% { 
+            margin-left: 0;
+        }
+        100% {
+            margin-left: 50%;
+        }
+    }
+} 

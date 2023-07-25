@@ -1,0 +1,25 @@
+:root {
+    --animation-lg: 2s;
+    --animation-md: 1s;
+    --animation-sm: 0.5s;
+    
+    --border-radius-lg: 100px;
+    --border-radius-md: 75px;
+    --border-radius-sm: 50px;
+
+    --margin-xl: 15px;
+    --margin-lg: 10px;
+    --margin-md: 5px;
+    --margin-sm: 2px;
+
+    --padding-xl: 15px;
+    --padding-lg: 10px;
+    --padding-md: 5px;
+    --padding-sm: 2px;
+
+    --shadow-bg1: 1px;
+    --shadow-bg2: 2px;
+    --shadow-bg3: 3px;
+    --shadow-control: 4px;
+    --shadow-active: 5px;
+}
